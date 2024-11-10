@@ -1,0 +1,13 @@
+storageType: YAML
+teamNameLookup:
+- firefly:16d80dd6-add1-415b-9432-020b87e74f11
+- pro:ffc7c8e4-b71f-4e95-a5c9-062ceb35dbc0
+- haiten:d76afe3c-1980-4828-8888-c3a48b64bc7e
+playerLookup:
+- 9869b1fe-9cf1-3db7-8c4a-7b529d1564ef:d76afe3c-1980-4828-8888-c3a48b64bc7e
+- 2a8900fd-91d2-3223-bb2c-fa096cefb0e6:d76afe3c-1980-4828-8888-c3a48b64bc7e
+- eaeede09-3905-3818-8fc8-38aea9a6b066:16d80dd6-add1-415b-9432-020b87e74f11
+- e5d039f3-c51e-3f71-9105-e8da4df2a28c:ffc7c8e4-b71f-4e95-a5c9-062ceb35dbc0
+- cd4b9c8a-0593-3428-83e1-d902cb3f0e58:d76afe3c-1980-4828-8888-c3a48b64bc7e
+- 550b0dd9-21ce-3d6f-9000-63e859f29936:ffc7c8e4-b71f-4e95-a5c9-062ceb35dbc0
+chestClaims: []

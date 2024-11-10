@@ -1,0 +1,102 @@
+name: haiten
+description: ''
+open: false
+pvp: false
+home: world:5135.992080162624:75.0:-5463.62031374861:31.695745:19.67971
+color: m
+chests: []
+players:
+- cd4b9c8a-0593-3428-83e1-d902cb3f0e58,DEFAULT
+- 9869b1fe-9cf1-3db7-8c4a-7b529d1564ef,ADMIN
+- 2a8900fd-91d2-3223-bb2c-fa096cefb0e6,OWNER
+level: 1
+tag: ''
+echest:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SADDLE
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_SWORD
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SADDLE
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLD_INGOT
+    amount: 2
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_HORSE_ARMOR
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SADDLE
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: NETHER_WART
+    amount: 22
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_HORSE_ARMOR
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_SWORD
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_HORSE_ARMOR
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_SWORD
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_SWORD
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SADDLE
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SADDLE
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_CHESTPLATE
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_LOG
+    amount: 9
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: OBSIDIAN
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BAMBOO
+    amount: 64
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BAMBOO
+    amount: 64
+score: 4
+warps:
+- daylanhacuachungta;world:4919.246681715589:103.0:-4927.5687311028305:51.3497:15.629709
+- farm;world:6435.18537873048:201.0:-5658.698155258959:67.87909:24.89993
+allyrequests: []
+allies:
+- 16d80dd6-add1-415b-9432-020b87e74f11
