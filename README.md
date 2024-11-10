@@ -1,2 +1,0 @@
-# ServerSMPTI
-Minecraft Vanila Server

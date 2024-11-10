@@ -1,0 +1,143 @@
+name: Firefly
+description: ''
+open: false
+pvp: false
+home: world:5138.853737407467:63.0:-5444.56626691787:-93.4269:29.041712
+color: '6'
+chests: []
+players:
+- eaeede09-3905-3818-8fc8-38aea9a6b066,OWNER
+level: 1
+tag: ''
+echest:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BAMBOO
+    amount: 7
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: LEATHER
+    amount: 9
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: LAPIS_LAZULI
+    amount: 10
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DIRT
+    amount: 4
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BOOK
+    amount: 4
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: OAK_PLANKS
+    amount: 11
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PUMPKIN
+    amount: 2
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DIORITE
+    amount: 7
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DANDELION
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: OAK_SAPLING
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 9
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: FILLED_MAP
+    meta:
+      ==: ItemMeta
+      meta-type: MAP
+      display-name: '{"translate":"filled_map.buried_treasure"}'
+      internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYC7KL3FIa2AAAQ4GpswUBkZtNgbGKgdLsBADkF1xIOsBhMMAAMbHWhFOAAAA
+      map-id: 0
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: FILLED_MAP
+    meta:
+      ==: ItemMeta
+      meta-type: MAP
+      display-name: '{"translate":"filled_map.buried_treasure"}'
+      internal: H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkZGApqSxIlWJjYKw4UF3AAAIcDEyZKQyM2kCxqgOTY8BibAzMRfklDmkNDBAAACaeWAFOAAAA
+      map-id: 2
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: HEART_OF_THE_SEA
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WHEAT_SEEDS
+    amount: 11
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PRISMARINE_CRYSTALS
+    amount: 5
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BREWING_STAND
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: JUNGLE_LOG
+    amount: 6
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLD_NUGGET
+    amount: 19
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLD_INGOT
+    amount: 15
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: CROSSBOW
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: JUNGLE_SAPLING
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: EMERALD
+    amount: 3
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DIAMOND
+    amount: 2
+score: 0
+allies:
+- d76afe3c-1980-4828-8888-c3a48b64bc7e
+allyrequests: []

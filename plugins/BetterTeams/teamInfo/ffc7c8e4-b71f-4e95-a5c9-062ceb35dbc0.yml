@@ -1,0 +1,42 @@
+name: pro
+description: ''
+open: false
+pvp: false
+home: world:4206.300000011921:93.0:-741.6128702158597:114.0983:22.126072
+color: c
+chests: []
+players:
+- 550b0dd9-21ce-3d6f-9000-63e859f29936,OWNER
+- e5d039f3-c51e-3f71-9105-e8da4df2a28c,DEFAULT
+level: 1
+tag: ''
+score: 0
+echest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: ELYTRA
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DRAGON_EGG
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+warps:
+- theend;world_the_end:-49.60023611925849:60.0:20.18227471881522:-152.52332:16.816448
+- nether;world:-892.1709257458094:62.0:-666.7656294889065:8.633728:40.2793
